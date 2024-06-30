@@ -130,7 +130,7 @@ $(document).ready(function(){
 
 $(document).ready(function(){
   $("#btn-github").click(function(){
-    window.open('https://github.com/RohitChakraborty2k02', '_blank');
+    window.open('https://github.com/RohitChakraborty2k02/Valorant-Agents', '_blank');
   });
 });
 
